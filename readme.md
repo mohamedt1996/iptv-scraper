@@ -1,18 +1,18 @@
 ### M3U8 Playlist
-- ```https://roxiestreams-scraper.vercel.app/roxiestreams```
-- ```https://ppvland-scraper.vercel.app/ppvland```
-- ```https://tvpass-scraper.vercel.app/tvpass```
-- ```https://streambtw-scraper.vercel.app/streambtw```
-- ```https://nbawebcast-scraper.vercel.app/nbawebcast```
-- ```https://pixelsport-scraper.vercel.app/pixelsport```
-- ```https://aesport-scraper.vercel.app/aesport```
-- ```https://nizarstream-scraper.vercel.app/nizarstream```
-- ```https://streameast-scraper.vercel.app/streameast```
+- ```https://roxiestreams-scraper.vercel.app/roxiestreams``` 🔴 ```(Not working as of 2025-03-11)```
+- ```https://ppvland-scraper.vercel.app/ppvland``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://tvpass-scraper.vercel.app/tvpass``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://streambtw-scraper.vercel.app/streambtw``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://nbawebcast-scraper.vercel.app/nbawebcast``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://pixelsport-scraper.vercel.app/pixelsport``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://aesport-scraper.vercel.app/aesport``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://streameast-scraper.vercel.app/streameast``` 🟢 ```(Working as of 2025-03-11)```
 ---
 ### Stremio Addon
-- ```https://moveonjoy-stremio.vercel.app/```
-- ```https://tvpass-stremio.vercel.app/```
-- ```https://daddytv-stremio.vercel.app/```
+- ```https://moveonjoy-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://tvpass-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://daddytv-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-11)```
 ---
 
 ### Recommended Players
