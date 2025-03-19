@@ -1,18 +1,18 @@
 ### M3U8 Playlist
-- ```https://roxiestreams-scraper.vercel.app/roxiestreams``` 🔴 ```(Not working as of 2025-03-11)```
-- ```https://ppvland-scraper.vercel.app/ppvland``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://tvpass-scraper.vercel.app/tvpass``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://streambtw-scraper.vercel.app/streambtw``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://nbawebcast-scraper.vercel.app/nbawebcast``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://pixelsport-scraper.vercel.app/pixelsport``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://aesport-scraper.vercel.app/aesport``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://streameast-scraper.vercel.app/streameast``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://roxiestreams-scraper.vercel.app/roxiestreams``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://ppvland-scraper.vercel.app/ppvland``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://tvpass-scraper.vercel.app/tvpass``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://streambtw-scraper.vercel.app/streambtw``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://nbawebcast-scraper.vercel.app/nbawebcast``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://pixelsport-scraper.vercel.app/pixelsport``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://aesport-scraper.vercel.app/aesport``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://nizarstream-scraper.vercel.app/nizarstream``` 🔴 ```(Not working as of 2025-03-19)```
+- ```https://streameast-scraper.vercel.app/streameast``` 🔴 ```(Not working as of 2025-03-19)```
 ---
 ### Stremio Addon
-- ```https://moveonjoy-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://tvpass-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-11)```
-- ```https://daddytv-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-11)```
+- ```https://moveonjoy-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-19)```
+- ```https://tvpass-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-19)```
+- ```https://daddytv-stremio.vercel.app/``` 🟢 ```(Working as of 2025-03-19)```
 ---
 
 ### Recommended Players
