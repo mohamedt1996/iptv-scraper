@@ -33,7 +33,7 @@ jobs:
 
       - name: Download and Run Python Script
         run: |
-          curl -o daddylive-channels.py "${{ secrets.DADDYLIVE_CHANNELS_URL }}"
+          curl -o daddylive-channels.py "https://daddylive.mp/"
           python daddylive-channels.py
 
       - name: Log the downloaded M3U8 file details
